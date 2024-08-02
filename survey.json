@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "surveyAnswer": "¿Ganaran los verdes?",
+        "initialDaySurvey": "2024-08-01",
+        "finishDaySurvey": "2024-08-02"
+    },
+    {
+        "id": 2,
+        "surveyAnswer": "¿Ganaran los rojos?",
+        "initialDaySurvey": "2024-08-03",
+        "finishDaySurvey": "2024-08-04"
+    },
+    {
+        "id": 3,
+        "surveyAnswer": "¿Ganara Aegon?",
+        "initialDaySurvey": "2024-08-05",
+        "finishDaySurvey": "2024-08-06"
+    },
+    {
+        "id": 4,
+        "surveyAnswer": "¿Ganara Daemon?",
+        "initialDaySurvey": "2024-08-07",
+        "finishDaySurvey": "2024-08-08"
+    },
+    {
+        "id": 5,
+        "surveyAnswer": "¿Ganara Aemond?",
+        "initialDaySurvey": "2024-08-09",
+        "finishDaySurvey": "2024-08-10"
+    }
+]
